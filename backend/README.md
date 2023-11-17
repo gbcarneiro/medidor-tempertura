@@ -1,6 +1,6 @@
 # Backend
 
-O backend dessa aplicação foi construído em [Flask]() e consiste em duas rotas principais:
+O backend dessa aplicação foi construído em [Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application) e consiste em duas rotas principais:
 
 ```
     add/temperature [POST]
@@ -42,7 +42,7 @@ A aplicação pode ser acessada através do link abaixo:
 
 https://flask-hello-world-eight-black.vercel.app/get/temperature 
 
-Utilize uma ferramenta como o [Postman]() e envie para a rota POST:
+Utilize uma ferramenta como o [Postman](https://www.postman.com/) e envie para a rota POST:
 
 https://flask-hello-world-eight-black.vercel.app/add/temperature
 
